@@ -2,7 +2,7 @@
  
 # Source Codes - FREE REST APIs
 <p align="center">
-<a href="#"><img title="DANU APIs" src="https://img.shields.io/badge/DANU Apis-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ARULIAZMI APIs" src="https://img.shields.io/badge/DANU Apis-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ekadanuarta"><img title="Author" src="https://img.shields.io/badge/Author-DANU GANS-orange.svg?style=for-the-badge&logo=github"></a>
@@ -14,7 +14,7 @@
 <a href="https://github.com/ekadanuarta/Api/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ekadanuarta/Api?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 <p align='center'>
-   <a href="https://wa.me/6288221400832"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/ekagans_02"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://wa.me/6283136824224"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+   <a href="https://instagram.com/aruliazmiii"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 </P>
 Hati-hati, karena salah sedikit langsung eror :v
